@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Colegio Mis Pequeños Saltamontes</string>
+    <string name="titulo">Promedio Notas</string>
+    <string name="documento">Ingrese su numero de documento</string>
+    <string name="nombre">Ingrese su nombre</string>
+    <string name="edad">Ingrese su edad</string>
+    <string name="telefono">Ingrese su telefono</string>
+    <string name="direccion">Ingrese su dirección</string>
+    <string name="materia">Materia</string>
+    <string name="nota">Nota</string>
+    <string name="calcular">Calcular</string>
+    <string name="concepto">JD</string>
+    <string name="bienvenida">Bienvenido a SOLUTION PROM</string>
+    <string name="opcion">Elije una opcion</string>
+    <string name="opcion1">Iniciar Registro</string>
+    <string name="opcion2">Estadisticas</string>
+    <string name="opcion3">Ayuda</string>
+    <string name="datos">Los datos ingresados son:</string>
+    <string name="datosprom">El promedio de las notas es:</string>
+    <string name="title_activity_ayuda">activity_Ayuda</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+    <string name="salir">Salir</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="regresar">Regresar</string>
+    <string name="estadistica">Estadisticas</string>
+
+
+</resources>
